@@ -1,8 +1,13 @@
 # python_bridge
-Preparation classes for Machine Learning workshop.
 
-These three classes are intended as a preparation for the CDT-REACT Machine Learning workshops.
+This course follows on directly from *Introduction to Python*, aiming to bridge the gap between a beginner-level course and the specific computing resources that you need for your research.
+ 
+We have three sessions to work together, with the following aims:
+ 
+* Improve your confidence in writing python code.
+* Introduce three essential packages for scientific computing in python: `numpy`, `matplotlib` and `pandas`.
+* Practice working with a data set to carry out some basic analysis and visualisation tasks.
 
-You will learn about the *numpy* module for numerical computing, how to plot figures with *matplotlib*, and the basics of data handling using *pandas*.
-
-We are here to help develop your confidence in using python! Any questions during or after the course are welcome: j.pinney@imperial.ac.uk
+At the end of these sessions, we hope that you will feel better prepared for further training in scientific computing (e.g. machine learning, statistical modelling, simulation etc.)
+ 
+This is a new course, and we are very grateful for your questions and feedback on the content and delivery so that we can continue to improve the training that we offer. Please email j.pinney@imperial.ac.uk with your comments and suggestions.
