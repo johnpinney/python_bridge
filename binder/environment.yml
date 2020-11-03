@@ -3,3 +3,5 @@ dependencies:
   - numpy
   - scipy
   - pandas
+  - statsmodels
+  
